@@ -1,6 +1,5 @@
-telethon
-python-telegram-bot
+python-telegram-bot==20.4
+telethon>=1.40.0
 tqdm
 python-dateutil
-rich
-InquirerPy
+cryptography
