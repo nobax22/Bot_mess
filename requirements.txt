@@ -1,0 +1,6 @@
+telethon
+python-telegram-bot
+tqdm
+python-dateutil
+rich
+InquirerPy
